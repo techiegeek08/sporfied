@@ -1,0 +1,21 @@
+
+
+.header{
+    display: flex;
+    justify-content:space-between;
+    border:solid;
+ }
+ .menu{
+    border-width: thin;
+ }
+ .pic{
+ width: 40%;
+ height: 40%;
+ }
+
+ .trendgrid{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+ }
